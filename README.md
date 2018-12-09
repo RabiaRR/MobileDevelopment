@@ -1,2 +1,2 @@
 # MobileDevelopment
-FoodTapp Restuarant App
+FoodTapp Restaurant App
